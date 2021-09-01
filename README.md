@@ -201,6 +201,7 @@ Pkg 폴더의 MoveBB2_3.py를 참조할 것.
 하강훈, 김재호&최재욱. “소방분야의 드론 활용방안 연구 경향 분석”. 한국산학기술학회논문지 제22권 제4호, 2021년. https://www.koreascience.or.kr/article/JAKO202113855736456.pdf.
 
 “화마가 덮친 남유럽, 통제불능 기후변화”. 세계는지금. KBS, 2018년 8월 14일.
+
 이용진. “1. bebop_autonomy”. Lee Yongjin (blog), 2021년 7월 9일. https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_1_bebop_autonomy.md.
 
 ———. “2. Parrot-Sphinx”. Lee Yongjin (blog), 2021년 7월 9일. https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_2_parrot_sphinx.md.
