@@ -201,6 +201,17 @@ Pkg 폴더의 MoveBB2_3.py를 참조할 것.
 하강훈, 김재호&최재욱. “소방분야의 드론 활용방안 연구 경향 분석”. 한국산학기술학회논문지 제22권 제4호, 2021년. https://www.koreascience.or.kr/article/JAKO202113855736456.pdf.
 
 “화마가 덮친 남유럽, 통제불능 기후변화”. 세계는지금. KBS, 2018년 8월 14일.
+이용진. “1. bebop_autonomy”. Lee Yongjin (blog), 2021년 7월 9일. https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_1_bebop_autonomy.md.
+
+———. “2. Parrot-Sphinx”. Lee Yongjin (blog), 2021년 7월 9일. https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_2_parrot_sphinx.md.
+
+———. “3. teleop_key 노드 작성”. Lee Yongjin (blog), 2021년 7월 9일. https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_3_teleop_key.md.
+
+———. “4. Odometry 토픽을 참조한 이동”. Lee Yongjin (blog), 2021년 7월 9일. https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_4_move_by_odom.md.
+
+———. “5. 웹페이지에 실시간 드론 GPS 위치 표시”. Lee Yongjin (blog), 2021년 7월 9일. https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_5_mark_bebop2_on_web.md.
+
+———. “6. GPS 위치정보에 의한 이동”. Lee Yongjin (blog), 2021년 7월 9일. https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_6_move_by_gps.md.
 
 # 참고
 
