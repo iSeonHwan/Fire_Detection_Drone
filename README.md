@@ -63,6 +63,31 @@ e-나라지표(https://www.index.go.kr)에 따르면, 2011년부터 2020년까�
 3. 화재 감지 드론은 사용자가 정해준 일정한 영역에 발생한 화재의 위치와 규모 등을 사진 및 영상으로 촬영하여 사용자에게 즉시 알린다.
 
 
+# 5.코드
+
+## 가) 21_FireDetector.launch
+launch 폴더의 21_FireDetector.launch를 참조할 것.
+
+## 나) 21-0_Manager.py
+Scripts 폴더의 21-0_Manager.py를 참조할 것.
+
+## 다) 21-1_FlyTarget.py
+Scripts 폴더의 21-1FlyTarget.py를 참조할 것.
+
+## 라) 21-2_detect_fire.py
+Scripts 폴더의 21-2_detect_fire.py를 참조할 것.
+
+## 마) 21-3_play_alarm.py
+Scripts 폴더의 21-3_play_alarm.py를 참조할 것.
+
+## 바) 21-4_battery.py
+Scripts 폴더의 21-4_battery.py를 참조할 것.
+
+## 사) Module_Gps_Class_20.py
+Pkg 폴더의 Module_Gps_Class_20.py를 참조할 것.
+
+## 아) MoveBB2_3.py
+Pkg 폴더의 MoveBB2_3.py를 참조할 것.
 # 참고
 
 문서 형식으로 보실 분은 동일 폴더의 pdf 파일을 다운받아 보시면 됩니다.
