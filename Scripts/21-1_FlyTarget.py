@@ -59,14 +59,17 @@ if __name__ == '__main__':
                 #FlyTarget이 실행 중이라면, 메니저 노드에서 다시 실행하지 않아도 되기 때문에 해당 파라미터를 0으로 초기화한다.
                 rospy.get_param("/Fire_drone_managerl/order", 0)
                 print("순찰 비행을 시작합니다.")
+                #카메라가 완전히 숙일 때까지 기다린다. 실험 결과 카메라를 숙이는 과정에서 불필요한 객체 탐지가 이루어졌다.
+                rospy.sleep(5)
                 #도착한 후에 화재를 인식하는 코드를 활성화한다.
                 rospy.set_param("/fire_detectorl/param_of_detector", True)
                 #목적지에서 순찰하는 코드를 실행하기 위하여 객체를 만들고 실행한다.
                 print("화재 탐지를 시작합니다.")
-
                 #순찰할 지역 지점을 얼만큼 넓게 잡을 것인가를 정하는 단위를 아래와 같이 설정한다.
-                la_unit = 0.000025
-                lo_unit = 0.000050
+                #이용진("6. GPS 위치정보에 의한 이동", 2021)에 따르면, 위도상 1m는 '0.00000899320363721', 경도상 1m는 '0.0000111905024062'이다.
+                #순찰 드론은 좌우로 대략 5m, 앞뒤로 약 3m정도를 순행한다. 왜냐하면 순찰 드론이 3m 고도에서 촬영하는 범위가 좌우로 5m 정도, 앞뒤로 약 2.5m이기 때문이다.
+                la_unit = 0.000022483009093025
+                lo_unit = 0.000055952512031
                 while not rospy.is_shutdown():
                     target_la = rospy.get_param("/tar_lati")
                     target_lo = rospy.get_param("/tar_long")
