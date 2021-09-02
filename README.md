@@ -61,7 +61,8 @@ e-나라지표(https://www.index.go.kr)에 따르면, 2011년부터 2020년까�
 
 <div align = "center">
 
-![21_알고리즘](https://user-images.githubusercontent.com/84608929/131607483-e052e912-9fb5-4cfe-98dd-0169c9bf885d.png)
+![image](https://user-images.githubusercontent.com/84608929/131785585-0d70791c-eb5c-47d7-8a50-9bea3eb03a58.png)
+
 
 </div> 
 
