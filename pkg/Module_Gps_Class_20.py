@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
+#Module_Gps_Class_20.py는 GPS 정보를 바탕으로 비행하는 코드이다.
+#이 코드는 이용진(2021)의 코드를 활용한 것이다.
+#출처: https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_6_move_by_gps.md
+
 #표준 라이브러리를 임포트한다.
 import rospy, sys
 
