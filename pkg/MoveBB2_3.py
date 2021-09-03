@@ -1,6 +1,10 @@
 #! /usr/bin/env python
 #-*- coding: utf-8 -*-
 
+# MoveBB2_3.py는 드론의 기본적인 비행과 관련한 모듈이다.
+# 이 코드는 이용진("Odometry 토픽을 참조한 이동", 2021)에서 가져온 것이다.
+# 출처: https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_4_move_by_odom.md
+
 import rospy
 from geometry_msgs.msg import Twist
 from std_msgs.msg import Empty
