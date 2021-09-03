@@ -189,6 +189,16 @@ Pkg 폴더의 MoveBB2_3.py를 참조할 것.
 
 https://youtu.be/Zf4osmD1pmc
 
+아래는 드론이 사진을 찍은 결과들이다.
+
+<div align = "center">
+
+![fire_20210902_095315670519](https://user-images.githubusercontent.com/84608929/131951135-28f52561-3efe-4cf3-b54a-4a616a144bae.png)
+![fire_20210902_095316403501](https://user-images.githubusercontent.com/84608929/131951139-389011df-25d2-4da2-83ff-262c97a89d40.png)
+![fire_20210902_095316539396](https://user-images.githubusercontent.com/84608929/131951142-876f3127-7e80-4b7f-80e6-cbf64da8013f.png)
+
+ </div>
+
 # 9.참고자료
 강욱. “공공임무용 드론의 사회적 비용·편익 분석에 대한 연구”. 한국테러학회보, 제11권 제4호, 2018년.
 
