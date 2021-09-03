@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 
 #Module_Gps_Class_20.py는 GPS 정보를 바탕으로 비행하는 코드이다.
-#이 코드는 이용진("8. GPS 좌표를 이용한 드론 이동", 2021)의 코드를 활용한 것이다.
+#이 코드는 이용진("8. GPS 좌표를 이용한 드론 이동", 2021)의 코드에서 가져와 약간의 변형을 한 것이다.
 #출처: https://github.com/greattoe/ros_tutorial_kr/blob/master/ros1_tutorial/rospy/bebop2/bb2_6_move_by_gps.md
 
 #표준 라이브러리를 임포트한다.
