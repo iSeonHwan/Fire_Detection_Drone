@@ -1,10 +1,4 @@
 # Fire_Detection_Drone(화재 탐지 소방 드론)
-
-<div align = "right">
-
-이선환, 이주현, 조민석, 한정훈
-
-</div>
  
 ## 프로젝트 활동 개요서
 
